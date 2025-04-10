@@ -1,13 +1,13 @@
-# Diario di bordo – Progetto Spatial Data
+# Diario di bordo – Progetto programming II
 
 ## 📅 2025-04-09
 - Incontro iniziale.
-- Definiti i componenti: API + Database + Visualizzazione.
-- Scelto il tema: analisi dati spaziali di incidenti stradali.
+- Definiti i componenti: Dataset + Database + Visualizzazione.
+- Due possibili modalità di progetto:
+  - opzione 1: Web scraping + Linux cron + Monte Carlo simulation
+  - opzione 2: Web front end + Python package + Monte Carlo simulation
+- Scelto il tema generale: analisi dati spaziali.
 - Iniziata la struttura del repository GitHub.
 
-## 📅 2025-04-10
-- Creato il repo su GitHub.
-- Scritta la prima versione dell'API in `FastAPI`.
-- Provato inserimento dati via PostGIS.
+
 

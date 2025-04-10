@@ -9,5 +9,7 @@
 - Scelto il tema generale: analisi dati spaziali.
 - Iniziata la struttura del repository GitHub.
 
-
+## 📅 2025-04-10
+- Secondo incontro.
+- Implementazione github.
 
